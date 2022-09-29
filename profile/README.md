@@ -1,7 +1,7 @@
 ## ACM at FSU  
 👋 Thanks for checking out our chapter's GitHub org. 
 
-We are a student organization at Florida State University, and registered student chapter of the Association for Computing Machinery. 
+We are a student organization at [Florida State University](https://www.fsu.edu), and registered student chapter of the [Association for Computing Machinery](https://www.acm.org). 
 <!--
 
 **Here are some ideas to get you started:**
