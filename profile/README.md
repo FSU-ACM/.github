@@ -1,4 +1,4 @@
-![Chapter Banner](assets/acm_fsu_banner.png?raw=true)
+![Chapter Banner](https://github.com/FSU-ACM/.github/blob/ce71724c214224e20f4d4cecf54028bfb1b0c5fa/profile/assets/acm_fsu_banner.png?raw=true)
 
 # 👋 Welcome to our GitHub org! 
 
