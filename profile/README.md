@@ -6,7 +6,7 @@ We are a student organization affiliated with the [Department of Computer Scienc
 
 ## Contributing
 
-We welcome collaboration with both members and non-mombers of our chapter. Feel free to email us at contact@fsu.acm.org or join us on [Discord](https://discord.gg/4z3hNMA).
+We welcome collaboration with both members and non-members of our chapter. Feel free to email us at contact@fsu.acm.org or join us on [Discord](https://discord.gg/4z3hNMA).
 
 <!--
 
